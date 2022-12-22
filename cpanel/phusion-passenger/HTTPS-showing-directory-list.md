@@ -31,6 +31,6 @@ apachectl configtest && systemctl restart {httpd,apache2} ; systemctl status {ht
 ```
 
 
-### References
+### Partial References
 - https://forums.cpanel.net/threads/node-js-app-registered-but-not-working-correctly-on-add-on-domain.673833/
 
